@@ -2,8 +2,8 @@
 <manifest>
   <project name="halium-exynos/android_device_samsung_on7xelte" path="device/samsung/on7xelte" remote="github" revision="lineage-16.0" />
   <project name="halium-exynos/android_device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="github" revision="lineage-16.0" />
-  <project name="halium-exynos/android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="github" revision="lineage-16.0-bak" />
-  <project name="halium-exynos/android_vendor_samsung_on7xelte" path="vendor/samsung/on7xelte" remote="github" revision="lineage-16.0" />
+  <project name="halium-exynos/android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="github" revision="lineage-16.0-sid" />
+  <project name="halium-exynos/proprietary_vendor_samsung_on7xelte" path="vendor/samsung/on7xelte" remote="github" revision="lineage-16.0" />
   <project name="halium-exynos/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
-  <project name="halium-exynos/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0" />
+  <project name="halium-exynos/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0-sid" />
 </manifest>
