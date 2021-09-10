@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remove-project name="packages/resources/devicesettings" />
   <project name="halium-exynos/android_device_samsung_on7xelte"             path="device/samsung/on7xelte"             remote="github" revision="lineage-17.1" />
   <project name="halium-exynos/android_vendor_samsung_on7xelte"             path="vendor/samsung/on7xelte"             remote="github" revision="lineage-17.1" />
   <project name="halium-exynos/android_device_samsung_universal7870-common" path="device/samsung/exynos7870-common"    remote="github" revision="lineage-17.1" />
