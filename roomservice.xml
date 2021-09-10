@@ -9,5 +9,4 @@
   <project name="halium-exynos/android_hardware_samsung_slsi-cm_exynos"     path="hardware/samsung/slsi-cm/exynos"     remote="github" revision="lineage-17.1" />
   <project name="halium-exynos/android_hardware_samsung_slsi-cm_exynos7870" path="hardware/samsung/slsi-cm/exynos7870" remote="github" revision="lineage-17.1" />
   <project name="halium-exynos/android_hardware_samsung_slsi-cm_exynos5"    path="hardware/samsung/slsi-cm/exynos5"    remote="github" revision="lineage-17.1" />
-  <project name="halium-exynos/android_packages_resources_devicesettings"   path="packages/resources/devicesettings"   remote="github" revision="lineage-17.1" />
 </manifest>
